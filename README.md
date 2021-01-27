@@ -1,2 +1,1 @@
-# Weather
-Погодное приложение
+# Weather app on Django
